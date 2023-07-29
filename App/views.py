@@ -3,4 +3,4 @@ from django.shortcuts import render
 # Create your views here.
 def landing(request):
     context = {}
-    return render(request, 'temp/base.html', context)
+    return render(request, 'App/base.html', context)
