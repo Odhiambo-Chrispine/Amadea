@@ -1,0 +1,2 @@
+# Amadea
+python tailwind
